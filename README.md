@@ -1,2 +1,2 @@
 # C-Programs-Semester-1
-Set Of My First Semester C Language Programs!
+“A collection of my C programs from college — simple, organized and growing with me.”
